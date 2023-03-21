@@ -18,6 +18,6 @@
   "homepage": "https://github.com/refice/repo1#readme",
   "dependencies": {
     "junit": "1.4.9",
-    "lib1":1.4
+    "lib1": "1.4"
   }
 }
